@@ -1,8 +1,7 @@
 A6 - Comp4800 
 
-Group memebers:
-Frosina Filiposka - 110108437
-Hassan Sajid - 110122866
+Frosina Filiposka 
+[SID]
 
 This program extracts a specific frame from a video file using FFmpeg libraries.
 

@@ -25,11 +25,7 @@ Required files in the same folder:
 - yolov3.weights
 - coco.names.txt
 
-Group Members:
 Frosina Filiposka 
-ID:110108437
-
-Hassan Sajid
-ID:110122866
+[SID]
 
 

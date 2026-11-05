@@ -1,6 +1,8 @@
 A5: Retrieving Info from format context
 
-February 24, 2026 1 
+February 24, 2026 
+Frosina Filiposka 
+[SID]
 
 • C and ffmpeg
 • Two allowed header files only.

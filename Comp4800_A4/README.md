@@ -1,11 +1,7 @@
-Group R:
 Comp4800 Assignment 4 - K-means Clustering
 
 Frosina Filiposka 
-110108437 
-
-Hassan Sajid
-110122866
+[SID]
 
 To compile: 
 g++ A4.cpp -o A4 `pkg-config --cflags --libs opencv4`
